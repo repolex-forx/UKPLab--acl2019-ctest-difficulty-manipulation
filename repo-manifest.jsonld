@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/acl2019-ctest-difficulty-manipulation/commit/ce4f368f8987b1111d92bf03f6b40710827ecf11",
       "git:hexsha": "ce4f368f8987b1111d92bf03f6b40710827ecf11",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
